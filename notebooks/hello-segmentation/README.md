@@ -3,6 +3,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eaidova/openvino_notebooks_binder.git/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fopenvinotoolkit%252Fopenvino_notebooks%26urlpath%3Dtree%252Fopenvino_notebooks%252Fnotebooks%2Fhello-segmentation%2Fhello-segmentation.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/openvinotoolkit/openvino_notebooks/blob/latest/notebooks/hello-segmentation/hello-segmentation.ipynb)
 
+##  Run on GESIS.ORG
+# [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eaidova/openvino_notebooks_binder.git/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fopenvinotoolkit%252Fopenvino_notebooks%26urlpath%3Dtree%252Fopenvino_notebooks%252Fnotebooks%2Fhello-segmentation%2Fhello-segmentation.ipynb)
+
+# [Run on GESIS.ORG](https://notebooks.gesis.org/binder/jupyter/user/eaidova-openvin-otebooks_binder-u86r98sg/notebooks/openvino_notebooks/notebooks/hello-segmentation/hello-segmentation.ipynb)
+
+# [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drcjhu/openvino_notebooks/HEAD?labpath=blob%2Flatest%2Fnotebooks%2Fhello-segmentation%2Fhello-segmentation.ipynb)
 |                                                                                                                             |                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://user-images.githubusercontent.com/36741649/127848003-9e45c8da-2e43-48ac-803f-9f51a8e9ea89.jpg" width=300> | <img src="https://user-images.githubusercontent.com/36741649/127847882-6305d483-f2ce-4c2f-a3b5-8573d1522d15.png" width=300> |
